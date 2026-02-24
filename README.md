@@ -28,8 +28,8 @@ The simulation was tested across multiple scales to verify that the physically e
 | 1000 | 0.0005000000 | 0.0005000000 | $2.23 \times 10^{-18}$ |
 
 ## Repository Structure
-* `stack_simulation.py`: The iterative physics engine and error analysis script.
-* `Leaning_Tower_of_Lire_Report.pdf`: Technical report detailing the Oresme proof of divergence and inductive physical derivation.
+* `main.py`: The iterative physics engine and error analysis script.
+* `project-report.pdf`: Technical report detailing the Oresme proof of divergence and inductive physical derivation.
 
 ## Dependencies
 * Python 3.x
